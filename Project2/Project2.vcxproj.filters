@@ -36,7 +36,22 @@
     <ClCompile Include="6588 골드바흐의 추측 x.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="1016 제곱 ㄴㄴ 수 %28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2579 계단오르기 o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2206 벽부수고 이동하기 o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2636 치즈 o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11727 2 x n 타일링 2 o.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

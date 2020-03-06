@@ -17,9 +17,7 @@ int main() {
 	for (int i = 2; i <= rmax; i++) {
 		if (map[i] == 0) {
 			for (int j = i + i; j <= 1000000; j = j + i) {
-				if (j % i == 0) {
-					map[j] = 1;
-				}
+				map[j] = 1;
 			}
 		}
 	}
@@ -41,13 +39,13 @@ int main() {
 		end = false;
 		for (int i = 0; i < n/2; i++) {
 			if (prime[i] + map[n - prime[i]] == n) {
-				cout << n << " = " << prime[i] << " + " << map[n - prime[i]] << endl;
+				cout << n << " = " << prime[i] << " + " << map[n - prime[i]] << '\n';
 				end = true;
 				break;
 			}
 		}
 		if (!end) {
-			cout << "Goldbach's conjecture is wrong." << endl;
+			cout << "Goldbach's conjecture is wrong." << '\n';
 		}
 	}
 

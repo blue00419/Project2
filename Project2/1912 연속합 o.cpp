@@ -6,7 +6,6 @@ using namespace std;
 int n;
 int map[100000];
 int dp[100000];
-int allmax = -1000000000;
 
 int main() {
 	cin.tie(0);
@@ -18,6 +17,7 @@ int main() {
 	}
 
 	dp[0] = map[0];
+	int allmax = dp[0];
 	for (int i = 1; i < n; i++) {
 		dp[i] = max(map[i], map[i] + dp[i - 1]);
 		if (dp[i] > allmax) {

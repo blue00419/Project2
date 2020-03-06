@@ -31,6 +31,7 @@ int main() {
 			cin >> temp >> temp;
 		}
 
+		bool zz = false;
 		front = true;
 		for (int j = 0; j < p.length(); j++) {
 			if (p[j] == 'R') {
@@ -39,6 +40,8 @@ int main() {
 			else {
 				if (dq.empty()) {
 					cout << "error" << endl;
+					zz = true;
+					break;
 				}
 				else {
 					if (front) {
@@ -50,9 +53,11 @@ int main() {
 				}
 			}
 		}
-
+		if (zz) {
+			continue;
+		}
+		cout << "[";
 		if (!dq.empty()) {
-			cout << "[";
 			if (front) {
 				while (!dq.empty()) {
 					n = dq.front();
@@ -75,8 +80,8 @@ int main() {
 					}
 				}
 			}
-			cout << "]" << endl;
 		}
+		cout << "]" << endl;
 	}
 
 	return 0;

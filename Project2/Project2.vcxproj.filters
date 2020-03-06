@@ -18,9 +18,6 @@
     <ClCompile Include="2609 최대공약수 최소공배수 o.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5430 ac x.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="14889 스타트와링크 x.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -31,9 +28,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2580 스도쿠 o.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6588 골드바흐의 추측 x.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1016 제곱 ㄴㄴ 수 %28인터넷%29.cpp">
@@ -48,10 +42,25 @@
     <ClCompile Include="2636 치즈 o.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스1.cpp">
+    <ClCompile Include="11727 2 x n 타일링 2 o.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11727 2 x n 타일링 2 o.cpp">
+    <ClCompile Include="1912 연속합 o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2293 동전 x.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11052 카드 구매하기 o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2156 포도주 시식 %28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5430 ac o.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6588 골드바흐의 추측 o.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

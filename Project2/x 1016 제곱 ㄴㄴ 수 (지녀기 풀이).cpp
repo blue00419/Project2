@@ -20,10 +20,11 @@ int main() {
 
 	int rmax = sqrt((double)MAX) + 1.0;
 	for (int i = a; i < rmax; i++) {
-		if (map[i] == 0)
+		if (map[i] == 0) {
 			for (int j = i + i; j <= MAX; j += i) {
 				map[j] = true;
 			}
+		}
 	}
 
 	for (int i = 2; i <= MAX; i++) {

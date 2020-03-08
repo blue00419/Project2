@@ -54,9 +54,6 @@
     <ClCompile Include="o 2805 나무 자르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x 1654 랜선 자르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="o 12787 지금 밥이 문제냐.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -93,7 +90,16 @@
     <ClCompile Include="o %28다시%29 9576 책 나눠주기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x %28ㅈㄹ병신같은 문제%29 13305 주유소.cpp">
+    <ClCompile Include="o 13305 주유소.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1654 랜선 자르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x 1422 숫자의신.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1826 연료 채우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

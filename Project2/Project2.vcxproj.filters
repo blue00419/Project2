@@ -96,10 +96,16 @@
     <ClCompile Include="o 1654 랜선 자르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x 1422 숫자의신.cpp">
+    <ClCompile Include="o 1826 연료 채우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o 1826 연료 채우기.cpp">
+    <ClCompile Include="x %28결과는 나오는데 왜안될까요%29 1422 숫자의신.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28하다 말음%29 중량제한.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x 2618 경찰차.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

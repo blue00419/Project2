@@ -1,49 +1,68 @@
 #include<iostream>
 #include<vector>
 #include<stdlib.h>
+#include<string.h>
 
 using namespace std;
 
-long long n, t, temp;
-vector<int> v;
+#define MAX 100000+1
+
+int n, t, v[MAX], cv[MAX];
+
+bool calc(int mid) {
+
+	int count = 0;
+	for (int i = 0; i < n; i++) {
+		cv[i] = v[i];
+		if (i != 0) {
+			if (cv[i - 1] - cv[i] > mid&& cv[i - 1] - (cv[i - 1] - cv[i] - mid) > 1) {
+				count += cv[i - 1] - cv[i] - mid;
+				cv[i - 1] -= cv[i - 1] - cv[i] - mid;
+
+				if (count > t) {
+					return false;
+				}
+			}
+			if (cv[i] - cv[i - 1] > mid&& cv[i] - (cv[i] - cv[i - 1] - mid) > 1) {
+				count += cv[i] - cv[i - 1] - mid;
+				cv[i] -= cv[i] - cv[i - 1] - mid;
+
+				if (count > t) {
+					return false;
+				}
+			}
+		}
+	}
+	return true;
+}
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
-
-	long long max = 0;
+	cout.tie(0);
 
 	cin >> n >> t;
 	for (int i = 0; i < n; i++) {
-		cin >> temp;
-		v.push_back(temp);
-		if (max < temp)
-			max = temp;
+		cin >> v[i];
 	}
 
-	long long left = 1, right = max, mid, result = 0, count;
+	int left = 1, right = MAX, mid, min = MAX;
 	while (left <= right) {
 		mid = (left + right) / 2;
 
-		cout << endl;
-		count = 0;
-		for (int i = 0; i < n - 1; i++) { // 차이 배열 만들어서 해보자
-			if (abs(v[i] - v[i + 1]) / mid >= 1) {
-				count += (abs(v[i] - v[i + 1]) / mid) - 1;
-				cout << i << " " << count << endl;
-			}
-		}
-
-		cout << mid << " " << count << endl;
-		if (count >= t) {
-			if (result > mid)
-				result = mid;
-			left = mid + 1;
+		if (calc(mid)) {
+			if (min > mid)
+				min = mid;
+			right = mid - 1;
 		}
 		else
-			right = mid - 1;
+			left = mid - 1;
 	}
-
+	calc(min);
+	for (int i = 0; i < n; i++) {
+		cout << cv[i] << " ";
+	}
+	cout << endl;
 
 	return 0;
 }

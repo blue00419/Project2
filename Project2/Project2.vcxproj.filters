@@ -138,5 +138,11 @@
     <ClCompile Include="x %28다시%29 11051 이항 계수 2 %28인터넷 풀이%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o %28다시%29 1992 쿼드트리 %28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x 11729 하노이 탑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

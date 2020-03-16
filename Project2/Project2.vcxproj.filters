@@ -171,5 +171,14 @@
     <ClCompile Include="o 1238 파티.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o 1261 알고스팟.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 4485 녹색 옷 입은 애가 젤다지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

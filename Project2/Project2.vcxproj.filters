@@ -177,6 +177,12 @@
     <ClCompile Include="o 4485 녹색 옷 입은 애가 젤다지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="x 1504 특정한 최단 경로 %28몰라 시발 왜 안될까%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x 1915 가장 큰 정사각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>

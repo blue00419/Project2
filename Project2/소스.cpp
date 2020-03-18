@@ -1,87 +1,79 @@
 #include<iostream>
 #include<queue>
-#include<algorithm>
-#include<string.h>
+#include<cstring>
+#include<vector>
 
 using namespace std;
 
 typedef pair<int, int> pi;
 
-#define MAX 800+1
+#define MAX 10000+1
 
-int INF = 987654321;
-
-int n, e;
+int n, m;
+int s, e;
 bool visit[MAX];
-int input[MAX][MAX] = { 0, };
+vector<pi> map[MAX];
+queue<int> q;
 
-vector<int> dijkstra(int start, int end, int first, int second) {
-
-	vector<int> map(end+1, INF);
+bool bfs(int mid) {
 	memset(visit, 0, sizeof(visit));
 
-	priority_queue<pi, vector<pi>, greater<pi> > q;
+	q.push(s);
+	visit[s] = 1;
 
-	map[start] = 0;
-	q.push({ map[start], start });
-	visit[start] = 1;
+	int start,size;
 	while (!q.empty()) {
-		start = q.top().second;
+		start = q.front();
 		q.pop();
 
-		for (int i = 1; i <= n; i++) {
-			if (visit[i] == 0 && input[start][i] + map[start] < map[i]) {
-				map[i] = input[start][i] + map[start];
-				q.push({ map[i] , i });
+
+		size = map[start].size();
+		for (int i = 0; i < size; i++) {
+			if (map[start][i].second >= mid && visit[map[start][i].first] == 0) {
+				if (map[start][i].first == e) {
+					while (!q.empty())
+						q.pop();
+					return true;
+				}
+				q.push(map[start][i].first);
+				visit[map[start][i].first] = 1;
 			}
 		}
-		visit[start] = 1;
 	}
-
-	vector<int> result = { map[first], map[second] };
-
-	return result;
+	return false;
 }
 
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 
-	cin >> n >> e;
-	int a, b, c;
-	for (int i = 0; i < e; i++) {
-		cin >> a >> b >> c;
-		if (input[a][b] == 0)
-			input[a][b] = c;
-		else if (input[a][b] != 0 && input[a][b] > c)
-			input[a][b] = c;
+	cin >> n >> m;
 
-		if (input[b][a] == 0)
-			input[b][a] = c;
-		else if (input[b][a] != 0 && input[b][a] > c)
-			input[b][a] = c;
+	int a, b, c, max=0;
+	for (int i = 0; i < m; i++) {
+		cin >> a >> b >> c;
+		
+		map[a].push_back({ b,c });
+		map[b].push_back({ a,c });
+
+		if (max < c)
+			max = c;
 	}
 
-	cin >> a >> b;
+	cin >> s >> e;
 
-	int firstsum = 0, secondsum = 0;
-	vector<int> z = dijkstra(1, n, a, b);
-	firstsum += z[0];
-	secondsum += z[1];
+	long long left = 1, right = max, mid, result = 0;
+	while (left <= right) {
+		mid = (left + right) / 2;
 
-	vector<int> zz = dijkstra(a, n, b, n);
-	firstsum += zz[0];
-	secondsum += zz[1];
-
-	vector<int> zzz = dijkstra(b, n, n, a);
-	firstsum += zzz[0];
-	secondsum += zzz[1];
-
-	int aa = min(firstsum, secondsum);
-	if (aa >= INF || aa < 0) 
-		cout << '-1' << '\n';
-	else
-		cout << aa << '\n';
+		if (bfs(mid)) {
+			result = mid;
+			left = mid + 1;
+		}
+		else
+			right = mid - 1;
+	}
+	cout << result << '\n';
 
 	return 0;
 }

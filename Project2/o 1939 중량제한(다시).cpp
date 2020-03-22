@@ -1,38 +1,40 @@
 #include<iostream>
-#include<queue>
 #include<vector>
-#include<string.h>
+#include<queue>
+#include<cstring>
 
 using namespace std;
 
-int n, m;
-int a, b, c, s, e;
-vector<int> map[10001];
-bool visit[10001];
+#define MAX 10000+1
 
-bool bfs(int mid) {
+typedef pair<int, int> pi;
+
+int n, m;
+int s, e;
+vector<pi> v[MAX];
+bool visit[MAX];
+
+bool calc(int mid) {
 	queue<int> q;
 	q.push(s);
 	visit[s] = 1;
 
-	int start, weight, end;
+	int size, start;
 	while (!q.empty()) {
 		start = q.front();
 		q.pop();
 
-		for (int i = 0; i < map[start].size()/2; i++) {
-			weight = i * 2 + 1;
-			end = i * 2;
-			if (map[start][weight] >= mid && visit[map[start][end]] == 0) {
-				if (map[start][end] == e) {
+		size = v[start].size();
+		for (int i = 0; i < size; i++) {
+			if (v[start][i].second >= mid && visit[v[start][i].first] == 0) {
+				if (v[start][i].first == e) {
 					return true;
 				}
-				q.push(map[start][end]);
-				visit[map[start][end]] = 1;
+				q.push(v[start][i].first);
+				visit[v[start][i].first] = 1;
 			}
 		}
 	}
-
 	return false;
 }
 
@@ -41,33 +43,32 @@ int main() {
 	cin.tie(0);
 
 	cin >> n >> m;
-
-	int max = 0;
+	
+	int a, b, c, max=0;
 	for (int i = 0; i < m; i++) {
 		cin >> a >> b >> c;
+		v[a].push_back({ b,c });
+		v[b].push_back({ a,c });
 		if (max < c)
 			max = c;
-		map[a].push_back(b);
-		map[a].push_back(c);
-		map[b].push_back(a);
-		map[b].push_back(c);
 	}
 	cin >> s >> e;
 
-	bool vi = false;
 	long long left = 1, right = max, mid, result = 0;
+
 	while (left <= right) {
 		mid = (left + right) / 2;
-		vi = !vi;
 		memset(visit, false, sizeof(visit));
-		if (bfs(mid)) {
+
+		if (calc(mid)) {
 			result = mid;
 			left = mid + 1;
 		}
 		else
 			right = mid - 1;
 	}
-	cout << result << endl;
+
+	cout << result << '\n';
 
 	return 0;
 }

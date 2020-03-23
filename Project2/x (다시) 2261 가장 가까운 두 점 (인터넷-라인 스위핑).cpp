@@ -35,7 +35,7 @@ int main() {
 		while (last < i) {
 			int d = v[i].first - v[last].first;
 			if (sqr(d) <= mmin) break;
-			else s.erase(pi(v[last].second, v[last].second)), last++;
+			else s.erase(pi(v[last].second, v[last].first)), last++;
 		}
 		double limit = sqrt(mmin);
 		auto end = s.upper_bound(pi(v[i].second + limit, INF));

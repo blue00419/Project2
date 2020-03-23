@@ -99,9 +99,6 @@
     <ClCompile Include="x %28다시%29 11051 이항 계수 2 %28인터넷 풀이%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x %28다시%29 1992 쿼드트리 %28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="x 11729 하노이 탑 %28인터넷%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -120,9 +117,6 @@
     <ClCompile Include="o 1976 여행 가자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x %28다시%29 10775 공항.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="o 1753 최단경로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -136,12 +130,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 4485 녹색 옷 입은 애가 젤다지.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 1504 특정한 최단 경로 %28몰라 시발 왜 안될까%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 1915 가장 큰 정사각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 2110 공유기 설치.cpp">
@@ -226,6 +214,33 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 1890 점프%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1992 쿼드트리 .cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1992 쿼드트리%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10775 공항.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10775 공항%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1504 특정한 최단 경로%28이건 안되고%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1504 특정한 최단 경로%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1915 가장 큰 정사각형.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1915 가장 큰 정사각형%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

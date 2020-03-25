@@ -42,9 +42,6 @@
     <ClCompile Include="o 11727 2 x n 타일링 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x 14889 스타트와링크.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="o 15686 치킨 배달.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -90,19 +87,10 @@
     <ClCompile Include="o 3079 입국심사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x 3090 차이를 최소로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="x 12015 가장 긴 증가하는 부분 수열 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="x %28다시%29 11051 이항 계수 2 %28인터넷 풀이%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 11729 하노이 탑 %28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 10827 a에b승 %28틀렸지만 답은나옴 ㅎ..%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="x %28다시%29 2261 가장 가까운 두 점 %28인터넷-라인 스위핑%29.cpp">
@@ -238,6 +226,30 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 1915 가장 큰 정사각형%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3090 차이를 최소로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3090 차이를 최소로%28다시 56점%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10827 a에b승 %28틀렸지만 답은나옴 ㅎ..%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10827 a에b승%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11729 하노이 탑 %28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o %28다시%29 11729 하노이 탑%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14889 스타트와링크.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14889 스타트와링크%28다시%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스.cpp">

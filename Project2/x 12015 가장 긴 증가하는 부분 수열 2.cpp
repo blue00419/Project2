@@ -1,47 +1,31 @@
-#include<iostream>
-#include<queue>
+#include <cstdio>
+#include <vector>
+#include<algorithm>
 
 using namespace std;
 
-#define MAX 1000000+1
-
-int n;
-int map[MAX], dp[MAX];
-priority_queue<pair<int, int> > q, suv;
-
 int main() {
-	ios_base::sync_with_stdio(0);
-	cin.tie(0);
 
-	cin >> n;
-	for (int i = 1; i <= n; i++) {
-		cin >> map[i];
-	}
+    int N, temp, cnt = 0;
+    vector <int> v;
 
-	q.push({ 1, 10 });
-	int max, x, allmax=0;
-	for (int i = 2; i <= n; i++) {
-		while (!q.empty()) {
-			max = q.top().first;
-			x = q.top().second;
-			q.pop();
-			suv.push({ max, x });
-			if (x < map[i]) {
-				break;
-			}
-		}
-		dp[i] = max + 1;
-		while (!suv.empty()) {
-			max = suv.top().first;
-			x = suv.top().second;
-			suv.pop();
-			q.push({ max, x });
-		}
-		q.push({ dp[i], map[i] });
-		if (allmax < dp[i])
-			allmax = dp[i];
-	}
-	cout << allmax << '\n';
+    v.push_back(0);
 
-	return 0;
+    scanf_s("%d", &N);
+
+    for (int i = 0; i < N; i++) {
+        scanf_s("%d", &temp);
+        if (temp > v.back()) { v.push_back(temp); cnt++; }
+        else {
+            vector<int>::iterator low = lower_bound(v.begin(), v.end(), temp);
+            *low = temp;
+        }
+        for (int j = 0; j < v.size(); j++) {
+            printf("%d\n", v[j]);
+        }
+    }
+
+    printf("%d\n", cnt);
+
+    return 0;
 }

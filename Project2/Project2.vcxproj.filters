@@ -285,7 +285,16 @@
     <ClCompile Include="o %28다시%29 1005 ACM Craft.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="o 1766 문제집.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 3665 최종순위 %28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 2042 구간 합 구하기%28인터넷%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 1967 트리의 지름.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

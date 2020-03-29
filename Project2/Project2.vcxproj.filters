@@ -294,7 +294,13 @@
     <ClCompile Include="x %28다시%29 2042 구간 합 구하기%28인터넷%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x %28다시%29 1967 트리의 지름.cpp">
+    <ClCompile Include="o %28다시%29 1967 트리의 지름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x 14867 물통.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o %28다시%29 1726 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

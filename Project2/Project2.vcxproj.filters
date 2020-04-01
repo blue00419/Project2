@@ -423,7 +423,13 @@
     <ClCompile Include="x %28다시%2915711 환상의 짝궁%28다시%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="o 16234 인구이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 13460 구슬 탈출 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 16235 나무 재테크.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -57,9 +57,6 @@
     <ClCompile Include="o 2512 예산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o %28다시%29 2580 스도쿠.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="x %28다시%29 1016 제곱 ㄴㄴ 수 %28지녀기 풀이%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -243,9 +240,6 @@
     <ClCompile Include="o 11729 하노이 탑 %28인터넷%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o %28다시%29 11729 하노이 탑%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="o 14889 스타트와링크.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -270,9 +264,6 @@
     <ClCompile Include="o 1613 역사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o %28다시%29 1197 최소 스패닝 트리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="o 1647 도시 분할 계획.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -280,9 +271,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 2252 줄 세우기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o %28다시%29 1005 ACM Craft.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 1766 문제집.cpp">
@@ -294,13 +282,7 @@
     <ClCompile Include="x %28다시%29 2042 구간 합 구하기%28인터넷%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o %28다시%29 1967 트리의 지름.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="x 14867 물통.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o %28다시%29 1726 로봇.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o 5430 ac%28다시%29.cpp">
@@ -453,7 +435,76 @@
     <ClCompile Include="x 17780 새로운 게임 %28안해 ㅄ같은 문제%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="o 11729 하노이탑%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11729 하노이 탑%28다시 2%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1005 ACM Craft%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1005 ACM Craft.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1197 최소 스패닝 트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1197 최소 스패닝 트리%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1726 로봇.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1726 로봇%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1967 트리의 지름.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1967 트리의 지름%28다시%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2580 스도쿠.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2580 스도쿠%28다시 2%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2019 상반기 line.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1206 view.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1208 flatten.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1204 최빈수 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1767 프로세서 연결하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9700 USB 꽂기의 미스터리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 4408 자기 방으로 돌아가기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1209 Sum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1210 Ladder1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1211 Ladder2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1213 String.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1215 회문1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

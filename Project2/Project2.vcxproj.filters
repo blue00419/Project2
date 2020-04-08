@@ -561,5 +561,29 @@
     <ClCompile Include="o sw 1232 사칙연산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o sw 1234 비밀번호.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1238 Contact.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1240 단순 2진 암호코드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x sw 1242 암호코드 스캔.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1244 최대 상금.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1245 균형점.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1247 최적 경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1248 공통조상.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

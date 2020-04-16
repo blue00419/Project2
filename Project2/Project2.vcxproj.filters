@@ -591,6 +591,9 @@
     <ClCompile Include="o sw 1249 보급로.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o sw 1260 화학물질2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>

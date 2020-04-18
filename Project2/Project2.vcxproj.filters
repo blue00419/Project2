@@ -618,5 +618,11 @@
     <ClCompile Include="o sw 1266 소수 완제품 확률.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o sw 1267 작업순서.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1268 최종평가%28뭔가 미완성된 문제같음%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

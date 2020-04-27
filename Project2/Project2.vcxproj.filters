@@ -624,5 +624,8 @@
     <ClCompile Include="o sw 1268 최종평가%28뭔가 미완성된 문제같음%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o sw 2383 점심 식사시간.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -648,5 +648,17 @@
     <ClCompile Include="x sw 5648 원자 소멸 시뮬레이션.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o sw 4014 활주로 건설.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 4013 특이한 자석.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 2382 미생물 격리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

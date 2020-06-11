@@ -657,7 +657,10 @@
     <ClCompile Include="o sw 2382 미생물 격리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="o B번 - 청소년 상어.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x A번 - 모노미노도미노%28시간초과%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

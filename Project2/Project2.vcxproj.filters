@@ -825,5 +825,29 @@
     <ClCompile Include="o 10250 ACM호텔.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="o 9020 골드바흐의 추측%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3053 택시 기하학%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10872 팩토리얼%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2108 통계학%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10814 나이순 정렬%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2748 피보나치 수 2%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11054 가장 긴 바이토닉 부분 수열%28하%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

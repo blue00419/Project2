@@ -13,886 +13,895 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{6f126960-a251-470a-89bf-5809c90c7145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\삼성 sw">
+      <UniqueIdentifier>{1c74a621-5df8-40d8-9f07-105185856759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\goorm">
+      <UniqueIdentifier>{f317ac79-2fb1-4607-a4f8-f1ecd74dc385}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="o 1912 연속합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 2293 동전.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2579 계단오르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2636 치즈.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2661 좋은수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 5430 ac.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 6588 골드바흐의 추측.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11052 카드 구매하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11727 2 x n 타일링 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 15686 치킨 배달.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 15711 환상의 짝궁.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2805 나무 자르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 12787 지금 밥이 문제냐.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2512 예산.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 1016 제곱 ㄴㄴ 수 %28지녀기 풀이%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 13305 주유소.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1654 랜선 자르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1826 연료 채우기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28결과는 나오는데 왜안될까요%29 1422 숫자의신.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 2618 경찰차.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 2618 경찰차 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2585 경비행기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3079 입국심사.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 12015 가장 긴 증가하는 부분 수열 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 11051 이항 계수 2 %28인터넷 풀이%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 2261 가장 가까운 두 점 %28인터넷-라인 스위핑%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1717 집합의 표현.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 4195 친구 네트워크.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1976 여행 가자.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1753 최단경로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1916 최소비용 구하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1238 파티.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1261 알고스팟.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 4485 녹색 옷 입은 애가 젤다지.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2110 공유기 설치.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2110 공유기 설치%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2609 최대공약수 최소공배수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2609 최대공약수 최소공배수%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9251 LCS.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9251 LCS%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9252 LCS 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9252 LCS 2%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9576 책 나눠주기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9576 책 나눠주기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11053 가장 긴 증가하는 부분 수열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11053 가장 긴 증가하는 부분 수열%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1520 내리막 길.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1520 내리막 길%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1939 중량제한.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1939 중량제한%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2156 포도주 시식.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2156 포도주 시식%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2206 벽부수고 이동하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2206 벽부수고 이동하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2869 달팽이는 올라가고 싶다.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2869 달팽이는 올라가고 싶다%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 1422 숫자의 신.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 1016 제곱 ㄴㄴ 수 %28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1655 가운데를 말해요.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1655 가운데를 말해요%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1890 점프.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1890 점프%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1992 쿼드트리 .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1992 쿼드트리%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10775 공항.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10775 공항%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1504 특정한 최단 경로%28이건 안되고%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1504 특정한 최단 경로%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1915 가장 큰 정사각형.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1915 가장 큰 정사각형%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3090 차이를 최소로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3090 차이를 최소로%28다시 56점%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10827 a에b승 %28틀렸지만 답은나옴 ㅎ..%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10827 a에b승%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11729 하노이 탑 %28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14889 스타트와링크.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14889 스타트와링크%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 11066 파일합치기%28실패%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 2631 줄세우기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 11657 타임머신%28벨만 포드%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 11404 플로이드.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 10159 저울%28플로이드%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1613 역사.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1647 도시 분할 계획.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o %28다시%29 2887 행성 터널.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2252 줄 세우기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1766 문제집.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 3665 최종순위 %28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 2042 구간 합 구하기%28인터넷%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 14867 물통.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 5430 ac%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 6603 로또%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2750 수 정렬하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2751 수 정렬하기 2%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10989 수 정렬하기 3%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10815 숫자카드%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10828 스택%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10845 큐%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10866 덱%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 1406 에디터%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1026 보물%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1181 단어정렬%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11650 좌표 정렬하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11651 좌표 정렬하기 2%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10867 중복 빼고 정렬하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10816 숫자 카드 2%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9012 괄호%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1874 스택 수열%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1158 조세퍼스 문제%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1966 프린터 큐%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%29 1920 수 찾기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1182 부분집합의 합%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9095 123 더하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9663 nqueen%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1037 약수%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1978 소수찾기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1929 소수 구하기%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2609 최대공약수와 최소공배수%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14889 스타트와 링크%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 15686 치킨배달%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2661 좋은 수열%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2580 스도쿠%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2485 가로수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 16236 아기 상어.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14503 로봇 청소기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1644 소수의 연속합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1002 터렛.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3190 뱀.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 6588 골드바흐의 추측%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x %28다시%2915711 환상의 짝궁%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 16234 인구이동.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 13460 구슬 탈출 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 16235 나무 재테크.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 15683 감시.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 12100 2048%28Easy%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14891 톱니바퀴.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14890 경사로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 17142 연구소 3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 15591 MooTube%28Silver%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 17780 새로운 게임 %28안해 ㅄ같은 문제%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11729 하노이탑%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11729 하노이 탑%28다시 2%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1005 ACM Craft%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1005 ACM Craft.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1197 최소 스패닝 트리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1197 최소 스패닝 트리%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1726 로봇.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1726 로봇%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1967 트리의 지름.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1967 트리의 지름%28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2580 스도쿠.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2580 스도쿠%28다시 2%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2019 상반기 line.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1206 view.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1208 flatten.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1204 최빈수 구하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1767 프로세서 연결하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9700 USB 꽂기의 미스터리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 4408 자기 방으로 돌아가기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1209 Sum.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1210 Ladder1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1211 Ladder2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1213 String.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1215 회문1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1216 회문2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1217 거듭 제곱.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1218 괄호 짝짓기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1219 길찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1220 Magnetic.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1221 GNS.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1222 계산기1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1223 계산기2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1224 계산기3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1225 암호생성기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1226 미로1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1227 미로2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1228 암호문1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1229 암호문2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1230 암호문3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1231 중위순회.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1233 사칙연산 유효성 검사.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1232 사칙연산.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1234 비밀번호.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1238 Contact.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1240 단순 2진 암호코드.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x sw 1242 암호코드 스캔.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1244 최대 상금.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1245 균형점.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1247 최적 경로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1248 공통조상.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1263 사람 네트워크2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1249 보급로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1260 화학물질2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1251 하나로.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1256 k번째 접미어.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1257 k번째 문자열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1258 행렬찾기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1259 금속막대.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1264 이미지 유사도 검사.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1265 달란트2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1266 소수 완제품 확률.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1267 작업순서.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 1268 최종평가%28뭔가 미완성된 문제같음%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 2383 점심 식사시간.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 5644 무선 충전.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 5658 보물상자 비밀번호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="o sw 5656 벽돌깨기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 5653 줄기세포배양.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 5650 핀볼 게임.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x sw 5648 원자 소멸 시뮬레이션.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 4014 활주로 건설.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 4013 특이한 자석.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 2382 미생물 격리.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o B번 - 청소년 상어.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x A번 - 모노미노도미노%28시간초과%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 16505 별.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2439 별찍기 - 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2438 별찍기 - 1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2440 별찍기 - 3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2441 별찍기 - 4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2442 별찍기 - 5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2443 별찍기 - 6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2444 별찍기 - 7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2445 별찍기 - 8.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2446 별찍기 - 9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2447 별찍기 - 10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2448 별찍기 - 11.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2522 별찍기 - 12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2523 별찍기 - 13.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2556 별찍기 - 14.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11068 회문의 수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 15927 회문은 회문아니야!! %28다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2960 에라토스테네스의 체.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9251 LCS%28다다시%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x sw 2117 홈 방범 서비스%28인터넷 참고%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 배열 합치기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 문자열 번갈아 출력하기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 특정 구간의 합.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 스택.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 최대 자리곱.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm binary search.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 징검다리 건너기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm JMOS.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o goorm 구슬 주머니.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2745 진법 변환.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 15482 한글 LCS%28이상한 문제%29.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 14915 진수 변환기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 1023 괄호 문자열%28시간초과%29.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="피보나치.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1644 소수의 연속합%28c%29.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 10032 과자 분배.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9997 미니멀리즘 시계.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9940 순열1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9839 최고의 쌍.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9778 카드 게임.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9700 usb 꽂기의 미스터리.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9480 민정이와 광직이의 알파벳 공부.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o sw 9317 석찬이의 받아쓰기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2933 미네랄.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 17135 캐슬 디펜스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1920 수찾기%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2750 수 정렬하기%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10989 수 정렬하기 3%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10815 숫자 카드%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1152 단어의 개수.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 5622 다이얼.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1712 손익분기점.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2839 설탕 배달.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10250 ACM호텔.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9020 골드바흐의 추측%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3053 택시 기하학%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10872 팩토리얼%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2108 통계학%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10814 나이순 정렬%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2748 피보나치 수 2%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11054 가장 긴 바이토닉 부분 수열%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11399 ATM%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1541 잃어버린 괄호%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 5086 배수와 약수%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11653 소인수분해%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 3036 링%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11050 이항 계수 1%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11051 이항 계수 2%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 9375 패션왕 신해빈%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="x 1676 팩토리얼 0의 개수%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 10773 제로%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 4949 균형잡힌 세상%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 18258 큐 2%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 2164 카드2%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 11866 요세푸스 문제 0%28하%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="o 1021 회전하는 큐%28하%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="소스1.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="o %28다시%29 2887 행성 터널.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1002 터렛.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1005 ACM Craft%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1005 ACM Craft.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1021 회전하는 큐%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1026 보물%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1037 약수%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1152 단어의 개수.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1158 조세퍼스 문제%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1181 단어정렬%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1182 부분집합의 합%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1197 최소 스패닝 트리%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1197 최소 스패닝 트리.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1238 파티.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1261 알고스팟.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1504 특정한 최단 경로%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1504 특정한 최단 경로%28이건 안되고%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1520 내리막 길%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1520 내리막 길.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1541 잃어버린 괄호%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1613 역사.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1644 소수의 연속합%28c%29.c">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1644 소수의 연속합.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1647 도시 분할 계획.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1654 랜선 자르기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1655 가운데를 말해요%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1655 가운데를 말해요.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1712 손익분기점.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1717 집합의 표현.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1726 로봇%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1726 로봇.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1753 최단경로.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1766 문제집.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1826 연료 채우기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1874 스택 수열%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1890 점프%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1890 점프.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1912 연속합.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1915 가장 큰 정사각형%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1915 가장 큰 정사각형.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1916 최소비용 구하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1920 수찾기%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1929 소수 구하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1939 중량제한%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1939 중량제한.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1966 프린터 큐%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1967 트리의 지름%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1967 트리의 지름.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1976 여행 가자.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1978 소수찾기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1992 쿼드트리 .cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 1992 쿼드트리%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2108 통계학%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2110 공유기 설치%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2110 공유기 설치.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2156 포도주 시식%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2156 포도주 시식.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2164 카드2%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2206 벽부수고 이동하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2206 벽부수고 이동하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2252 줄 세우기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2438 별찍기 - 1.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2439 별찍기 - 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2440 별찍기 - 3.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2441 별찍기 - 4.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2442 별찍기 - 5.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2443 별찍기 - 6.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2444 별찍기 - 7.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2445 별찍기 - 8.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2446 별찍기 - 9.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2447 별찍기 - 10.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2448 별찍기 - 11.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2485 가로수.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2512 예산.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2522 별찍기 - 12.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2523 별찍기 - 13.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2556 별찍기 - 14.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2579 계단오르기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2580 스도쿠%28다시 2%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2580 스도쿠%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2580 스도쿠.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2585 경비행기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2609 최대공약수 최소공배수%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2609 최대공약수 최소공배수.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2609 최대공약수와 최소공배수%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2636 치즈.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2661 좋은 수열%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2661 좋은수열.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2745 진법 변환.c">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2748 피보나치 수 2%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2750 수 정렬하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2750 수 정렬하기%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2751 수 정렬하기 2%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2805 나무 자르기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2839 설탕 배달.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2869 달팽이는 올라가고 싶다%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2869 달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2933 미네랄.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 2960 에라토스테네스의 체.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3036 링%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3053 택시 기하학%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3079 입국심사.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3090 차이를 최소로%28다시 56점%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3090 차이를 최소로.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 3190 뱀.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 4485 녹색 옷 입은 애가 젤다지.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 4949 균형잡힌 세상%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 5086 배수와 약수%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 5430 ac%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 5430 ac.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 5622 다이얼.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 6588 골드바흐의 추측%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 6588 골드바흐의 추측.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 6603 로또%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9012 괄호%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9020 골드바흐의 추측%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9095 123 더하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9251 LCS%28다다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9251 LCS%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9251 LCS.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9252 LCS 2%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9252 LCS 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9375 패션왕 신해빈%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9576 책 나눠주기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9576 책 나눠주기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 9663 nqueen%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10250 ACM호텔.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10773 제로%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10775 공항%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10775 공항.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10814 나이순 정렬%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10815 숫자 카드%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10815 숫자카드%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10816 숫자 카드 2%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10827 a에b승 %28틀렸지만 답은나옴 ㅎ..%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10827 a에b승%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10828 스택%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10845 큐%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10866 덱%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10867 중복 빼고 정렬하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10872 팩토리얼%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10989 수 정렬하기 3%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 10989 수 정렬하기 3%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11050 이항 계수 1%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11051 이항 계수 2%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11052 카드 구매하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11053 가장 긴 증가하는 부분 수열%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11053 가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11054 가장 긴 바이토닉 부분 수열%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11068 회문의 수.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11399 ATM%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11650 좌표 정렬하기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11651 좌표 정렬하기 2%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11653 소인수분해%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11727 2 x n 타일링 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11729 하노이 탑 %28인터넷%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11729 하노이 탑%28다시 2%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11729 하노이탑%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 11866 요세푸스 문제 0%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 12100 2048%28Easy%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 12787 지금 밥이 문제냐.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 13305 주유소.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 13460 구슬 탈출 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14503 로봇 청소기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14889 스타트와 링크%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14889 스타트와링크%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14889 스타트와링크.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14890 경사로.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14891 톱니바퀴.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 14915 진수 변환기.c">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 15482 한글 LCS%28이상한 문제%29.c">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 15591 MooTube%28Silver%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 15683 감시.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 15686 치킨 배달.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 15686 치킨배달%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 16234 인구이동.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 16235 나무 재테크.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 16236 아기 상어.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 16505 별.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 17135 캐슬 디펜스.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 17142 연구소 3.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o 18258 큐 2%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1204 최빈수 구하기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1206 view.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1208 flatten.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1209 Sum.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1210 Ladder1.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1211 Ladder2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1213 String.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1215 회문1.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1216 회문2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1217 거듭 제곱.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1218 괄호 짝짓기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1219 길찾기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1220 Magnetic.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1221 GNS.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1222 계산기1.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1223 계산기2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1224 계산기3.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1225 암호생성기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1226 미로1.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1227 미로2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1228 암호문1.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1229 암호문2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1230 암호문3.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1231 중위순회.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1232 사칙연산.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1233 사칙연산 유효성 검사.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1234 비밀번호.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1238 Contact.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1240 단순 2진 암호코드.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1244 최대 상금.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1245 균형점.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1247 최적 경로.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1248 공통조상.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1249 보급로.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1251 하나로.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1256 k번째 접미어.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1257 k번째 문자열.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1258 행렬찾기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1259 금속막대.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1260 화학물질2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1263 사람 네트워크2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1264 이미지 유사도 검사.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1265 달란트2.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1266 소수 완제품 확률.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1267 작업순서.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1268 최종평가%28뭔가 미완성된 문제같음%29.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 1767 프로세서 연결하기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 2382 미생물 격리.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 2383 점심 식사시간.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 4013 특이한 자석.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 4014 활주로 건설.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 4408 자기 방으로 돌아가기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 5644 무선 충전.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 5650 핀볼 게임.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 5653 줄기세포배양.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 5656 벽돌깨기.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 5658 보물상자 비밀번호.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9317 석찬이의 받아쓰기.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9480 민정이와 광직이의 알파벳 공부.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9700 usb 꽂기의 미스터리.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9700 USB 꽂기의 미스터리.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9778 카드 게임.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9839 최고의 쌍.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9940 순열1.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 9997 미니멀리즘 시계.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="o sw 10032 과자 분배.c">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28결과는 나오는데 왜안될까요%29 1422 숫자의신.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 1016 제곱 ㄴㄴ 수 %28인터넷%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 1016 제곱 ㄴㄴ 수 %28지녀기 풀이%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 1406 에디터%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 1920 수 찾기%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 2042 구간 합 구하기%28인터넷%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 2261 가장 가까운 두 점 %28인터넷-라인 스위핑%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 3665 최종순위 %28인터넷%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 4195 친구 네트워크.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 10159 저울%28플로이드%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 11051 이항 계수 2 %28인터넷 풀이%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 11404 플로이드.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%29 11657 타임머신%28벨만 포드%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x %28다시%2915711 환상의 짝궁%28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 1023 괄호 문자열%28시간초과%29.c">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 1422 숫자의 신.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 1676 팩토리얼 0의 개수%28하%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 2293 동전.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 2618 경찰차 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 2618 경찰차.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 2631 줄세우기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 11066 파일합치기%28실패%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 12015 가장 긴 증가하는 부분 수열 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 14867 물통.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 15711 환상의 짝궁.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 15927 회문은 회문아니야!! %28다시%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x 17780 새로운 게임 %28안해 ㅄ같은 문제%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="x sw 5648 원자 소멸 시뮬레이션.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="x sw 1242 암호코드 스캔.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="x sw 2117 홈 방범 서비스%28인터넷 참고%29.cpp">
+      <Filter>소스 파일\삼성 sw</Filter>
+    </ClCompile>
+    <ClCompile Include="x A번 - 모노미노도미노%28시간초과%29.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o B번 - 청소년 상어.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm binary search.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm JMOS.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 구슬 주머니.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 문자열 번갈아 출력하기.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 배열 합치기.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 스택.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 징검다리 건너기.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 최대 자리곱.cpp">
+      <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="o goorm 특정 구간의 합.cpp">
+      <Filter>소스 파일\goorm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

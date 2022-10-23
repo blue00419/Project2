@@ -22,6 +22,15 @@
     <Filter Include="소스 파일\goorm">
       <UniqueIdentifier>{f317ac79-2fb1-4607-a4f8-f1ecd74dc385}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조">
+      <UniqueIdentifier>{974d1fe7-ccf9-4971-8dec-3c9918dc10fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\자료구조\linked list">
+      <UniqueIdentifier>{27e58d1d-8ceb-4c29-a771-488909c17cdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\자료구조\heap">
+      <UniqueIdentifier>{9bbc6247-8b9d-4c95-b65d-5cc8719013fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2019 상반기 line.cpp">
@@ -31,9 +40,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="피보나치.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="o %28다시%29 2887 행성 터널.cpp">
@@ -902,6 +908,18 @@
     </ClCompile>
     <ClCompile Include="o goorm 특정 구간의 합.cpp">
       <Filter>소스 파일\goorm</Filter>
+    </ClCompile>
+    <ClCompile Include="2346 풍선 터뜨리기.cpp">
+      <Filter>소스 파일\자료구조\linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="1021 회전하는 큐.cpp">
+      <Filter>소스 파일\자료구조\linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="1158 요세푸스 문제.cpp">
+      <Filter>소스 파일\자료구조\linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일\자료구조\heap</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

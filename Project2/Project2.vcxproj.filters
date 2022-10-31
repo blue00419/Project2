@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\자료구조\heap">
       <UniqueIdentifier>{9bbc6247-8b9d-4c95-b65d-5cc8719013fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\자료구조\sort">
+      <UniqueIdentifier>{c1a2fd3b-9edb-425c-bae6-fd727b77ed62}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2019 상반기 line.cpp">
@@ -918,8 +921,20 @@
     <ClCompile Include="1158 요세푸스 문제.cpp">
       <Filter>소스 파일\자료구조\linked list</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일\자료구조\heap</Filter>
+    <ClCompile Include="버블정렬.cpp">
+      <Filter>소스 파일\자료구조\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="선택정렬.cpp">
+      <Filter>소스 파일\자료구조\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬.cpp">
+      <Filter>소스 파일\자료구조\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="퀵정렬.cpp">
+      <Filter>소스 파일\자료구조\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="합병정렬.cpp">
+      <Filter>소스 파일\자료구조\sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -28,10 +28,7 @@
     <Filter Include="소스 파일\자료구조\linked list">
       <UniqueIdentifier>{27e58d1d-8ceb-4c29-a771-488909c17cdd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\자료구조\heap">
-      <UniqueIdentifier>{9bbc6247-8b9d-4c95-b65d-5cc8719013fb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\자료구조\sort">
+    <Filter Include="소스 파일\자료구조\algorithm">
       <UniqueIdentifier>{c1a2fd3b-9edb-425c-bae6-fd727b77ed62}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -922,19 +919,31 @@
       <Filter>소스 파일\자료구조\linked list</Filter>
     </ClCompile>
     <ClCompile Include="버블정렬.cpp">
-      <Filter>소스 파일\자료구조\sort</Filter>
+      <Filter>소스 파일\자료구조\algorithm</Filter>
     </ClCompile>
     <ClCompile Include="선택정렬.cpp">
-      <Filter>소스 파일\자료구조\sort</Filter>
+      <Filter>소스 파일\자료구조\algorithm</Filter>
     </ClCompile>
     <ClCompile Include="삽입정렬.cpp">
-      <Filter>소스 파일\자료구조\sort</Filter>
+      <Filter>소스 파일\자료구조\algorithm</Filter>
     </ClCompile>
     <ClCompile Include="퀵정렬.cpp">
-      <Filter>소스 파일\자료구조\sort</Filter>
+      <Filter>소스 파일\자료구조\algorithm</Filter>
     </ClCompile>
     <ClCompile Include="합병정렬.cpp">
-      <Filter>소스 파일\자료구조\sort</Filter>
+      <Filter>소스 파일\자료구조\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="힙정렬.c">
+      <Filter>소스 파일\자료구조\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="기수정렬.cpp">
+      <Filter>소스 파일\자료구조\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="이진탐색.cpp">
+      <Filter>소스 파일\자료구조\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="투포인터.c">
+      <Filter>소스 파일\자료구조\algorithm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -969,5 +969,11 @@
     <ClCompile Include="o 디스크 컨트롤러.cpp">
       <Filter>소스 파일\programmers</Filter>
     </ClCompile>
+    <ClCompile Include="o 택시 합승 요금.cpp">
+      <Filter>소스 파일\programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="o 경주로 건설.cpp">
+      <Filter>소스 파일\programmers</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
